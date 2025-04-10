@@ -1,1 +1,1 @@
-# timer1
+# contador-global
